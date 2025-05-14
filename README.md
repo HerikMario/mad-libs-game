@@ -1,18 +1,33 @@
-## Getting Started
+# 📝 Jogo de Histórias Personalizadas
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Um jogo simples e interativo feito em Java, executado diretamente no terminal. O usuário preenche um pequeno formulário com palavras como **sujeitos**, **verbos** e **adjetivos**, e ao final, o programa monta automaticamente um texto personalizado e divertido com base nas respostas fornecidas.
 
-## Folder Structure
+## 🚀 Como funciona
 
-The workspace contains two folders by default, where:
+1. O programa solicita que o usuário insira palavras específicas (ex: um sujeito, um verbo e um adjetivo).
+2. Com base nas entradas, um texto é gerado dinamicamente.
+3. O resultado é uma pequena história personalizada.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## 🎯 Objetivo
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+Demonstrar, de forma simples e criativa, conceitos básicos de programação em Java como:
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+- Entrada e saída de dados
+- Manipulação de strings
+- Estrutura sequencial
+- Uso do terminal
 
-## Dependency Management
+## 🛠️ Tecnologias utilizadas
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+- Java (JDK 8+)
+- Execução via terminal/console
+
+## 🗂 Estrutura de Diretórios
+
+```plaintext
+JogoDeHistoria/
+│
+├── src/
+│   └── JogoDeHistoria.java     # Arquivo principal do jogo
+│
+└── README.md                   # Documentação do projeto
