@@ -21,13 +21,3 @@ Demonstrar, de forma simples e criativa, conceitos básicos de programação em 
 
 - Java (JDK 8+)
 - Execução via terminal/console
-
-## 🗂 Estrutura de Diretórios
-
-```plaintext
-JogoDeHistoria/
-│
-├── src/
-│   └── JogoDeHistoria.java     # Arquivo principal do jogo
-│
-└── README.md                   # Documentação do projeto
